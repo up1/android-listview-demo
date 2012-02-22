@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reports">
+        <item>Report 1</item>
+        <item>Report 2</item>
+        <item>Report 3</item>
+        <item>Report 4</item>
+        <item>Report 5</item>
+        <item>Report 6</item>
+        <item>Report 7</item>
+        <item>Report 8</item>
+        <item>Report 9</item>
+        <item>Report 10</item>
+    </string-array>
+</resources>
